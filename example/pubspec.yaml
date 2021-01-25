@@ -1,6 +1,9 @@
 name: pdf_viewer_plugin_example
 description: Demonstrates how to use the pdf_viewer_plugin plugin.
 
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter

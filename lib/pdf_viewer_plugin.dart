@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:pdf_viewer_plugin/src/android_pdf_viewer.dart';
-import 'package:pdf_viewer_plugin/src/cupertino_pfd_viewer.dart';
+import 'package:pdf_viewer_plugin/src/cupertino_pdf_viewer.dart';
 import 'package:pdf_viewer_plugin/src/pdf_viewer_method_channel.dart';
 
 typedef void PdfViewerCreatedCallback();
